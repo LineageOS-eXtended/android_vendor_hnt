@@ -25,4 +25,5 @@
     <string name="default_iconpack_title">Стандартні значки</string>
     <string name="transparent_hotseat_title">Прозорий докбар</string>
     <string name="swipe_down_title">Свайп униз, щоб розгорнути швидкі налаштування</string>
+    <string name="double_tap_title">Двічі торкніться екрана, щоб вимкнути пристрій</string>
 </resources>
