@@ -24,4 +24,5 @@
     <string name="icon_pack_summary">Вибір набору значків</string>
     <string name="default_iconpack_title">Стандартні значки</string>
     <string name="transparent_hotseat_title">Прозорий докбар</string>
+    <string name="swipe_down_title">Свайп униз, щоб розгорнути швидкі налаштування</string>
 </resources>
