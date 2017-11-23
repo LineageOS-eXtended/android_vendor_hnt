@@ -26,4 +26,13 @@
     <string name="transparent_hotseat_title">Прозорий докбар</string>
     <string name="swipe_down_title">Свайп униз, щоб розгорнути швидкі налаштування</string>
     <string name="double_tap_title">Двічі торкніться екрана, щоб вимкнути пристрій</string>
+
+    <!-- Grid size -->
+    <string name="grid_size_text">Розмір сітки</string>
+    <string name="grid_size_default">За замовчуванням (5x5)</string>
+    <string name="grid_size_comfortable">Комфортна (4x5}</string>
+    <string name="grid_size_cozy">Зручна (5x5)</string>
+    <string name="grid_size_condensed">Стиснута (6x6)</string>
+    <string name="grid_size_custom">Користувацький</string>
+    <string name="grid_size_custom_message">Виберіть розмір сітки</string>
 </resources>
