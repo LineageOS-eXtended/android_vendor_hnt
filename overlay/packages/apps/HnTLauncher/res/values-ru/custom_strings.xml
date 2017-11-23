@@ -30,7 +30,7 @@
     <!-- Grid size -->
     <string name="grid_size_text">Размер сетки</string>
     <string name="grid_size_default">По умолчанию (5x5)</string>
-    <string name="grid_size_comfortable">Просторная (4x5}</string>
+    <string name="grid_size_comfortable">Просторная (4x5)</string>
     <string name="grid_size_cozy">Удобная (5x5)</string>
     <string name="grid_size_condensed">Сжатая (6x6)</string>
     <string name="grid_size_custom">Своя</string>
